@@ -24,9 +24,9 @@ function displayMenuItems(menu) {
             
             // HINT: Append the list item to the category's list
         
-        });
+        };
     }
-}
+
 
 // HINT: Callback function for adding an item to the order
 function addToOrder(itemName) {
